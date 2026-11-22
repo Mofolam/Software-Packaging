@@ -1,0 +1,24 @@
+
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Node.js application for the Software Packaging project",
+  "main": "src/index.js",
+  "files": [
+    "src/"
+  ],
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "devops",
+    "software-packaging"
+  ],
+  "author": "Mofolam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}

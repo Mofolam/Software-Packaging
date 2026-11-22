@@ -1,0 +1,12 @@
+manage.py
+pyproject.toml
+config/__init__.py
+config/asgi.py
+config/settings.py
+config/urls.py
+config/wsgi.py
+python_packaging_app.egg-info/PKG-INFO
+python_packaging_app.egg-info/SOURCES.txt
+python_packaging_app.egg-info/dependency_links.txt
+python_packaging_app.egg-info/requires.txt
+python_packaging_app.egg-info/top_level.txt
